@@ -178,12 +178,6 @@ https://github.com/Platane/snk
 
 ---
 
-### ✅ Son Not
-
-Bu profil README'si dinamik bölümler (istatistikler, grafikler) içerir. İhtiyaca göre sadeleştirilebilir veya İngilizce ek bir bölüm eklenebilir.
-
----
-
 <details>
 <summary>English (Optional)</summary>
 
